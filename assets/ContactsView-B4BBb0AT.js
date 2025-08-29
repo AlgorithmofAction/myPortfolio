@@ -1,0 +1,1 @@
+import{C as a}from"./Contacts-01zCUjn7.js";import{c as e,a as s,b as o,o as c}from"./index-B-NPMhVO.js";const p={__name:"ContactsView",setup(n){return(r,t)=>(c(),e("main",null,[t[0]||(t[0]=s("h1",{class:"contacts-page__title"},"Связаться со мной:",-1)),o(a,{class:"contacts-page mt"})]))}};export{p as default};
